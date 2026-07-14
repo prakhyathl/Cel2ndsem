@@ -1,0 +1,11 @@
+Applicant Name: Rahul Sharma (Review Demo)
+Age: 42
+Employment Years: 7
+Existing EMI: 65000.00
+Annual Income: 5000000.00
+Loan Amount: 25000000.00
+Loan Term (Years): 15
+CIBIL Score: 710
+Prediction Status: REVIEW
+Confidence Score: 100.0%
+------------------------------

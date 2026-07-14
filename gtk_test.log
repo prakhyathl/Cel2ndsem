@@ -1,0 +1,2 @@
+Before gtk_init
+After gtk_init - SUCCESS
